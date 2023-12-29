@@ -1,0 +1,581 @@
+2023/12/22 15:38:35 -- {"action":"connection","ip":"192.168.64.158","id":"ROP4H1Wo44SZA6dmAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:38:35 -- {"action":"join room","id":"ROP4H1Wo44SZA6dmAAAB"}
+2023/12/22 15:38:35 -- {"action":"connection","ip":"192.168.64.158","id":"dnRWqG6ufMDknCAMAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:38:35 -- {"action":"join room","id":"dnRWqG6ufMDknCAMAAAD"}
+2023/12/22 15:38:36 -- {"action":"connection","ip":"192.168.64.158","id":"uQd95DVpM7j7SddxAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:38:36 -- {"action":"join room","id":"uQd95DVpM7j7SddxAAAF"}
+2023/12/22 15:52:08 -- {"action":"connection","ip":"192.168.64.158","id":"69gKLDxSpmUn02dnAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:52:08 -- {"action":"join room","id":"69gKLDxSpmUn02dnAAAB"}
+2023/12/22 15:52:09 -- {"action":"connection","ip":"192.168.64.158","id":"mRcVgcVb5Kj4IobcAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:52:09 -- {"action":"join room","id":"mRcVgcVb5Kj4IobcAAAD"}
+2023/12/22 15:52:10 -- {"action":"connection","ip":"192.168.64.158","id":"YL3ZsV5gcQgK9tiiAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:52:10 -- {"action":"join room","id":"YL3ZsV5gcQgK9tiiAAAF"}
+2023/12/22 15:52:43 -- {"action":"disconnect","reason":"transport close","id":"69gKLDxSpmUn02dnAAAB"}
+2023/12/22 15:52:43 -- {"action":"connection","ip":"192.168.64.158","id":"uemQzcenaNNtH8vZAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:52:43 -- {"action":"join room","id":"uemQzcenaNNtH8vZAAAH"}
+2023/12/22 15:52:51 -- {"action":"disconnect","reason":"transport close","id":"YL3ZsV5gcQgK9tiiAAAF"}
+2023/12/22 15:52:51 -- {"action":"connection","ip":"192.168.64.158","id":"22E86GK0jsmi09jrAAAJ","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:52:51 -- {"action":"join room","id":"22E86GK0jsmi09jrAAAJ"}
+2023/12/22 15:52:53 -- {"action":"disconnect","reason":"transport close","id":"22E86GK0jsmi09jrAAAJ"}
+2023/12/22 15:52:53 -- {"action":"connection","ip":"192.168.64.158","id":"OIJQlPCoJvP-h7gUAAAL","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:52:53 -- {"action":"join room","id":"OIJQlPCoJvP-h7gUAAAL"}
+2023/12/22 15:54:27 -- {"action":"disconnect","reason":"transport close","id":"uemQzcenaNNtH8vZAAAH"}
+2023/12/22 15:54:27 -- {"action":"connection","ip":"192.168.64.158","id":"9sOPQJtqsFw6ih1_AAAN","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:54:27 -- {"action":"join room","id":"9sOPQJtqsFw6ih1_AAAN"}
+2023/12/22 15:54:42 -- {"action":"disconnect","reason":"transport close","id":"9sOPQJtqsFw6ih1_AAAN"}
+2023/12/22 15:54:42 -- {"action":"connection","ip":"192.168.64.158","id":"lZa_BN45i9BzbY2uAAAP","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:54:42 -- {"action":"join room","id":"lZa_BN45i9BzbY2uAAAP"}
+2023/12/22 15:56:12 -- {"action":"disconnect","reason":"transport close","id":"lZa_BN45i9BzbY2uAAAP"}
+2023/12/22 15:56:12 -- {"action":"connection","ip":"192.168.64.158","id":"HeLoLFVvvM1ed7gwAAAR","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:56:12 -- {"action":"join room","id":"HeLoLFVvvM1ed7gwAAAR"}
+2023/12/22 15:59:05 -- {"action":"disconnect","reason":"transport close","id":"OIJQlPCoJvP-h7gUAAAL"}
+2023/12/22 15:59:05 -- {"action":"connection","ip":"192.168.64.158","id":"EP1mTTCSa8jIGYADAAAT","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:59:05 -- {"action":"join room","id":"EP1mTTCSa8jIGYADAAAT"}
+2023/12/22 15:59:15 -- {"action":"disconnect","reason":"client namespace disconnect","id":"EP1mTTCSa8jIGYADAAAT"}
+2023/12/22 15:59:28 -- {"action":"connection","ip":"192.168.64.158","id":"ZstcLWR3xOVdBNQxAAAV","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 15:59:28 -- {"action":"join room","id":"ZstcLWR3xOVdBNQxAAAV"}
+2023/12/22 16:00:00 -- {"action":"disconnect","reason":"transport close","id":"HeLoLFVvvM1ed7gwAAAR"}
+2023/12/22 16:00:00 -- {"action":"connection","ip":"192.168.64.158","id":"K2jlovU_BZasyqqkAAAX","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:00:00 -- {"action":"join room","id":"K2jlovU_BZasyqqkAAAX"}
+2023/12/22 16:00:53 -- {"action":"connection","ip":"192.168.64.158","id":"EldQY2mebsV4B-U3AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:00:53 -- {"action":"join room","id":"EldQY2mebsV4B-U3AAAD"}
+2023/12/22 16:00:53 -- {"action":"connection","ip":"192.168.64.158","id":"bSL3KHvWEn6sGMHLAAAE","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:00:53 -- {"action":"join room","id":"bSL3KHvWEn6sGMHLAAAE"}
+2023/12/22 16:00:53 -- {"action":"connection","ip":"192.168.64.158","id":"xJcpxsLWNLxlmcMmAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:00:53 -- {"action":"join room","id":"xJcpxsLWNLxlmcMmAAAF"}
+2023/12/22 16:00:56 -- {"action":"message-to-all","id":"bSL3KHvWEn6sGMHLAAAE","message":"[\"ddd\"]"}
+2023/12/22 16:03:31 -- {"action":"disconnect","reason":"transport close","id":"xJcpxsLWNLxlmcMmAAAF"}
+2023/12/22 16:04:15 -- {"action":"disconnect","reason":"client namespace disconnect","id":"EldQY2mebsV4B-U3AAAD"}
+2023/12/22 16:04:24 -- {"action":"message-to-all","id":"bSL3KHvWEn6sGMHLAAAE","message":"[\"ddd\"]"}
+2023/12/22 16:04:25 -- {"action":"message-to-all","id":"bSL3KHvWEn6sGMHLAAAE","message":"[\"ddd\"]"}
+2023/12/22 16:04:27 -- {"action":"connection","ip":"192.168.64.158","id":"wSdnFq81ZdLUvuEAAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:04:27 -- {"action":"join room","id":"wSdnFq81ZdLUvuEAAAAH"}
+2023/12/22 16:04:30 -- {"action":"message-to-all","id":"bSL3KHvWEn6sGMHLAAAE","message":"[\"ddd\"]"}
+2023/12/22 16:05:15 -- {"action":"message-to-all","id":"wSdnFq81ZdLUvuEAAAAH","message":"[\"ddd\"]"}
+2023/12/22 16:05:16 -- {"action":"message-to-all","id":"wSdnFq81ZdLUvuEAAAAH","message":"[\"ddd\"]"}
+2023/12/22 16:05:16 -- {"action":"message-to-all","id":"wSdnFq81ZdLUvuEAAAAH","message":"[\"ddd\"]"}
+2023/12/22 16:05:16 -- {"action":"message-to-all","id":"wSdnFq81ZdLUvuEAAAAH","message":"[\"ddd\"]"}
+2023/12/22 16:06:15 -- {"action":"disconnect","reason":"transport close","id":"wSdnFq81ZdLUvuEAAAAH"}
+2023/12/22 16:06:16 -- {"action":"connection","ip":"192.168.64.158","id":"qnE4dGCwDVZfISzxAAAJ","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:06:16 -- {"action":"join room","id":"qnE4dGCwDVZfISzxAAAJ"}
+2023/12/22 16:06:16 -- {"action":"message-to-all","id":"qnE4dGCwDVZfISzxAAAJ","message":"[\"\"]"}
+2023/12/22 16:06:18 -- {"action":"message-to-all","id":"qnE4dGCwDVZfISzxAAAJ","message":"[\"asdfasdf\"]"}
+2023/12/22 16:06:22 -- {"action":"disconnect","reason":"client namespace disconnect","id":"qnE4dGCwDVZfISzxAAAJ"}
+2023/12/22 16:06:23 -- {"action":"connection","ip":"192.168.64.158","id":"gSWNlOzFIreoGaAkAAAL","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 16:06:23 -- {"action":"join room","id":"gSWNlOzFIreoGaAkAAAL"}
+2023/12/22 16:06:24 -- {"action":"message-to-all","id":"gSWNlOzFIreoGaAkAAAL","message":"[\"asdfasdf\"]"}
+2023/12/22 16:06:25 -- {"action":"message-to-all","id":"gSWNlOzFIreoGaAkAAAL","message":"[\"asdfasdf\"]"}
+2023/12/22 16:06:25 -- {"action":"message-to-all","id":"gSWNlOzFIreoGaAkAAAL","message":"[\"asdfasdf\"]"}
+2023/12/22 16:08:03 -- {"action":"message-to-all","id":"gSWNlOzFIreoGaAkAAAL","message":"[\"我擦 \"]"}
+2023/12/22 16:51:41 -- {"action":"disconnect","reason":"transport close","id":"gSWNlOzFIreoGaAkAAAL"}
+2023/12/22 17:43:21 -- {"action":"connection","ip":"192.168.64.158","id":"rplM1nz6ucPrXGsqAAAN","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/22 17:43:21 -- {"action":"join room","id":"rplM1nz6ucPrXGsqAAAN"}
+2023/12/22 17:43:24 -- {"action":"message-to-all","id":"rplM1nz6ucPrXGsqAAAN","message":"[\"\\n　　桑桑桑桑桑桑桑　　　\\n　　　桑　　桑　　　　　\\n　　　　桑桑　桑　　　　\\n　桑桑桑桑　桑桑桑桑　　\\n　　桑　桑　桑　　桑　　\\n　　　桑　　　桑桑　　　\\n　桑桑　桑　桑　　桑　　\\n桑桑桑桑桑桑桑桑桑桑桑　\\n　　　桑　桑　桑　　　　\\n　　桑　　桑　　桑　　　\\n桑桑　　　桑　　　桑桑　\\n　　　　　　　　　　　　\\n　　　　　桑　　　　　　\\n　　桑桑桑桑桑桑桑桑　　\\n　　桑　　　　　　桑　　\\n　　桑桑桑桑桑桑桑桑　　\\n　　桑　　　　　　桑　　\\n　　桑桑桑桑桑桑桑桑　　\\n　　　　　桑　　　　　　\\n　桑桑桑桑桑桑桑桑桑　　\\n　桑　　　桑　　　桑　　\\n　桑　　　桑　　　桑　　\\n　桑　　　桑　　桑桑　　\\n　　　　　　　　　　　　\\n\"]"}
+2023/12/22 18:01:35 -- {"action":"disconnect","reason":"transport close","id":"rplM1nz6ucPrXGsqAAAN"}
+2023/12/22 18:01:35 -- {"action":"disconnect","reason":"transport close","id":"bSL3KHvWEn6sGMHLAAAE"}
+2023/12/25 08:50:35 -- {"action":"connection","ip":"192.168.64.158","id":"K31G8MWslyR0NlbCAAAP","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 08:50:35 -- {"action":"join room","id":"K31G8MWslyR0NlbCAAAP"}
+2023/12/25 08:50:36 -- {"action":"connection","ip":"192.168.64.158","id":"fScNgtc-Xnc5HTKTAAAR","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 08:50:36 -- {"action":"join room","id":"fScNgtc-Xnc5HTKTAAAR"}
+2023/12/25 08:52:41 -- {"action":"disconnect","reason":"transport close","id":"fScNgtc-Xnc5HTKTAAAR"}
+2023/12/25 上午9:09:33 -- {"action":"connection","ip":"192.168.64.158","id":"UjoGs8H_4tq6ubPuAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午9:49:56 -- {"action":"connection","ip":"192.168.64.158","id":"YcU_yZ6T9JPvQwlRAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午9:49:56 -- {"action":"join room","id":"YcU_yZ6T9JPvQwlRAAAB"}
+2023/12/25 上午9:50:25 -- {"action":"connection","ip":"192.168.64.158","id":"EqQxvtoaH5hMiATHAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午9:50:25 -- {"action":"join room","id":"EqQxvtoaH5hMiATHAAAB"}
+2023/12/25 上午9:51:45 -- {"action":"connection","ip":"192.168.64.158","id":"bKjCLEkm5a7bIxceAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午9:51:45 -- {"action":"join room","id":"bKjCLEkm5a7bIxceAAAB"}
+2023/12/25 上午10:44:43 -- {"action":"connection","ip":"192.168.64.158","id":"D3jGLTqyuRdDqWw3AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:44:43 -- {"action":"join room","id":"D3jGLTqyuRdDqWw3AAAB"}
+2023/12/25 上午10:46:04 -- {"action":"connection","ip":"192.168.64.158","id":"GRTdJFSs_sU2y870AAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:46:04 -- {"action":"join room","id":"GRTdJFSs_sU2y870AAAC"}
+2023/12/25 上午10:46:04 -- {"action":"connection","ip":"192.168.64.158","id":"CkurR62NAV2sFepRAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:46:04 -- {"action":"join room","id":"CkurR62NAV2sFepRAAAD"}
+2023/12/25 上午10:46:10 -- {"action":"message-to-others","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:10 -- {"action":"message-to-others","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:10 -- {"action":"message-to-others","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:10 -- {"action":"message-to-all","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:10 -- {"action":"message-to-all","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:11 -- {"action":"message-to-all","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:11 -- {"action":"message-to-all","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:11 -- {"action":"message-to-all","id":"CkurR62NAV2sFepRAAAD","message":"[\"\"]"}
+2023/12/25 上午10:46:13 -- {"action":"message-to-all","id":"GRTdJFSs_sU2y870AAAC","message":"[\"asdf\"]"}
+2023/12/25 上午10:46:13 -- {"action":"message-to-all","id":"GRTdJFSs_sU2y870AAAC","message":"[\"asdf\"]"}
+2023/12/25 上午10:46:13 -- {"action":"message-to-others","id":"GRTdJFSs_sU2y870AAAC","message":"[\"asdf\"]"}
+2023/12/25 上午10:46:14 -- {"action":"message-to-others","id":"GRTdJFSs_sU2y870AAAC","message":"[\"asdf\"]"}
+2023/12/25 上午10:50:42 -- {"action":"connection","ip":"192.168.64.158","id":"y0uE0CshmTkr0wOnAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:50:42 -- {"action":"join room","id":"y0uE0CshmTkr0wOnAAAC"}
+2023/12/25 上午10:50:42 -- {"action":"connection","ip":"192.168.64.158","id":"HWXa_ZGgW5HBU0PoAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:50:42 -- {"action":"join room","id":"HWXa_ZGgW5HBU0PoAAAD"}
+2023/12/25 上午10:51:03 -- {"action":"connection","ip":"192.168.64.158","id":"CRdjFIQjx5BESC6IAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:51:03 -- {"action":"join room","id":"CRdjFIQjx5BESC6IAAAC"}
+2023/12/25 上午10:51:03 -- {"action":"connection","ip":"192.168.64.158","id":"7H0FQPxeH2zGcSbdAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:51:03 -- {"action":"join room","id":"7H0FQPxeH2zGcSbdAAAD"}
+2023/12/25 上午10:51:10 -- {"action":"disconnect","reason":"transport close","id":"7H0FQPxeH2zGcSbdAAAD"}
+2023/12/25 上午10:51:10 -- {"action":"connection","ip":"192.168.64.158","id":"1MbVa3PLlqhFKD_RAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:51:10 -- {"action":"join room","id":"1MbVa3PLlqhFKD_RAAAF"}
+2023/12/25 上午10:51:11 -- {"action":"disconnect","reason":"transport close","id":"1MbVa3PLlqhFKD_RAAAF"}
+2023/12/25 上午10:51:11 -- {"action":"connection","ip":"192.168.64.158","id":"dppuOxVntAu__8vtAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:51:11 -- {"action":"join room","id":"dppuOxVntAu__8vtAAAH"}
+2023/12/25 上午10:51:48 -- {"action":"connection","ip":"192.168.64.158","id":"dcy91SBgSy52wd-RAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:51:48 -- {"action":"join room","id":"dcy91SBgSy52wd-RAAAC"}
+2023/12/25 上午10:51:48 -- {"action":"connection","ip":"192.168.64.158","id":"OVD1_oQWb3m6yk1EAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:51:48 -- {"action":"join room","id":"OVD1_oQWb3m6yk1EAAAD"}
+2023/12/25 上午10:52:02 -- {"action":"disconnect","reason":"transport close","id":"dcy91SBgSy52wd-RAAAC"}
+2023/12/25 上午10:52:02 -- {"action":"connection","ip":"192.168.64.158","id":"jIeUdPibLaK3PgHXAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:52:02 -- {"action":"join room","id":"jIeUdPibLaK3PgHXAAAF"}
+2023/12/25 上午10:52:53 -- {"action":"connection","ip":"192.168.64.158","id":"CECcwYAzO31NfLJxAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:52:53 -- {"action":"join room","id":"CECcwYAzO31NfLJxAAAB"}
+2023/12/25 上午10:53:16 -- {"action":"connection","ip":"192.168.64.158","id":"Ncy-useC1e8vfWnPAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:53:16 -- {"action":"join room","id":"Ncy-useC1e8vfWnPAAAB"}
+2023/12/25 上午10:53:17 -- {"action":"connection","ip":"192.168.64.158","id":"5PK_tDoP5-48CKOxAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午10:53:17 -- {"action":"join room","id":"5PK_tDoP5-48CKOxAAAD"}
+2023/12/25 上午10:53:20 -- {"action":"message-to-all","id":"5PK_tDoP5-48CKOxAAAD","message":"[\"\"]"}
+2023/12/25 上午10:53:21 -- {"action":"message-to-all","id":"5PK_tDoP5-48CKOxAAAD","message":"[\"\"]"}
+2023/12/25 上午10:53:21 -- {"action":"message-to-all","id":"5PK_tDoP5-48CKOxAAAD","message":"[\"\"]"}
+2023/12/25 上午10:53:22 -- {"action":"disconnect","reason":"transport close","id":"Ncy-useC1e8vfWnPAAAB"}
+2023/12/25 上午10:53:23 -- {"action":"disconnect","reason":"transport close","id":"5PK_tDoP5-48CKOxAAAD"}
+2023/12/25 上午11:06:07 -- {"action":"connection","ip":"192.168.64.158","id":"yXE-fdwoGYhQbyYaAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:06:07 -- {"action":"join room","id":"yXE-fdwoGYhQbyYaAAAB"}
+2023/12/25 上午11:06:54 -- {"action":"connection","ip":"192.168.64.158","id":"5sfT6yTIo1AD949CAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:06:54 -- {"action":"join room","id":"5sfT6yTIo1AD949CAAAB"}
+2023/12/25 上午11:07:17 -- {"action":"disconnect","reason":"transport close","id":"5sfT6yTIo1AD949CAAAB"}
+2023/12/25 上午11:08:02 -- {"action":"connection","ip":"192.168.64.158","id":"_jGyeR6lXZzq23WmAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:02 -- {"action":"join room","id":"_jGyeR6lXZzq23WmAAAB"}
+2023/12/25 上午11:08:04 -- {"action":"connection","ip":"192.168.64.158","id":"u78KCdpn-cFSR5KHAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:04 -- {"action":"join room","id":"u78KCdpn-cFSR5KHAAAD"}
+2023/12/25 上午11:08:04 -- {"action":"disconnect","reason":"transport close","id":"_jGyeR6lXZzq23WmAAAB"}
+2023/12/25 上午11:08:06 -- {"action":"disconnect","reason":"transport close","id":"u78KCdpn-cFSR5KHAAAD"}
+2023/12/25 上午11:08:06 -- {"action":"connection","ip":"192.168.64.158","id":"lgmfHfeZ_n-QWxGpAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:06 -- {"action":"join room","id":"lgmfHfeZ_n-QWxGpAAAF"}
+2023/12/25 上午11:08:07 -- {"action":"disconnect","reason":"transport close","id":"lgmfHfeZ_n-QWxGpAAAF"}
+2023/12/25 上午11:08:07 -- {"action":"connection","ip":"192.168.64.158","id":"3BHEjTmvJ-NAfI-AAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:07 -- {"action":"join room","id":"3BHEjTmvJ-NAfI-AAAAH"}
+2023/12/25 上午11:08:07 -- {"action":"disconnect","reason":"transport close","id":"3BHEjTmvJ-NAfI-AAAAH"}
+2023/12/25 上午11:08:07 -- {"action":"connection","ip":"192.168.64.158","id":"4jyEQ2oHnqWvbHMPAAAJ","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:07 -- {"action":"join room","id":"4jyEQ2oHnqWvbHMPAAAJ"}
+2023/12/25 上午11:08:07 -- {"action":"disconnect","reason":"transport close","id":"4jyEQ2oHnqWvbHMPAAAJ"}
+2023/12/25 上午11:08:07 -- {"action":"connection","ip":"192.168.64.158","id":"cbQus5Rk5MQXkgR7AAAL","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:07 -- {"action":"join room","id":"cbQus5Rk5MQXkgR7AAAL"}
+2023/12/25 上午11:08:07 -- {"action":"disconnect","reason":"transport close","id":"cbQus5Rk5MQXkgR7AAAL"}
+2023/12/25 上午11:08:07 -- {"action":"connection","ip":"192.168.64.158","id":"E14MD8UaAybyMJpxAAAN","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:07 -- {"action":"join room","id":"E14MD8UaAybyMJpxAAAN"}
+2023/12/25 上午11:08:12 -- {"action":"connection","ip":"192.168.64.158","id":"g228q7WfhTnLkgmOAAAP","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:12 -- {"action":"join room","id":"g228q7WfhTnLkgmOAAAP"}
+2023/12/25 上午11:08:12 -- {"action":"disconnect","reason":"transport close","id":"E14MD8UaAybyMJpxAAAN"}
+2023/12/25 上午11:08:24 -- {"action":"disconnect","reason":"transport close","id":"g228q7WfhTnLkgmOAAAP"}
+2023/12/25 上午11:08:24 -- {"action":"connection","ip":"192.168.64.158","id":"0RY0u8t3nU7tIwsTAAAR","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:08:24 -- {"action":"join room","id":"0RY0u8t3nU7tIwsTAAAR"}
+2023/12/25 上午11:11:05 -- {"action":"connection","ip":"192.168.64.158","id":"UcwVD4zhz7llawTIAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:11:05 -- {"action":"join room","id":"UcwVD4zhz7llawTIAAAB"}
+2023/12/25 上午11:11:34 -- {"action":"connection","ip":"192.168.64.158","id":"Q0yG2h2g__vXWWjrAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:11:34 -- {"action":"join room","id":"Q0yG2h2g__vXWWjrAAAB"}
+2023/12/25 上午11:14:04 -- {"action":"connection","ip":"192.168.64.158","id":"Ls4EvAd_UR4gq6biAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:14:04 -- {"action":"join room","id":"Ls4EvAd_UR4gq6biAAAB"}
+2023/12/25 上午11:14:21 -- {"action":"connection","ip":"192.168.64.158","id":"KfJVwLg4T9U611jjAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:14:22 -- {"action":"join room","id":"KfJVwLg4T9U611jjAAAB"}
+2023/12/25 上午11:14:38 -- {"action":"connection","ip":"192.168.64.158","id":"ErValiH84NVHtgxNAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:14:38 -- {"action":"join room","id":"ErValiH84NVHtgxNAAAB"}
+2023/12/25 上午11:14:48 -- {"action":"disconnect","reason":"transport close","id":"ErValiH84NVHtgxNAAAB"}
+2023/12/25 上午11:14:52 -- {"action":"connection","ip":"192.168.64.158","id":"-8jRxJ2xtP6Z8TpcAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:14:52 -- {"action":"join room","id":"-8jRxJ2xtP6Z8TpcAAAD"}
+2023/12/25 上午11:15:14 -- {"action":"connection","ip":"192.168.64.158","id":"sUCxgSOW-FGskK7YAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:15:14 -- {"action":"join room","id":"sUCxgSOW-FGskK7YAAAB"}
+2023/12/25 上午11:44:24 -- {"action":"disconnect","reason":"transport close","id":"sUCxgSOW-FGskK7YAAAB"}
+2023/12/25 上午11:45:58 -- {"action":"connection","ip":"192.168.64.158","id":"DEtstvXmReQ-ePu8AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:45:58 -- {"action":"join room","id":"DEtstvXmReQ-ePu8AAAD"}
+2023/12/25 上午11:45:59 -- {"action":"disconnect","reason":"transport close","id":"DEtstvXmReQ-ePu8AAAD"}
+2023/12/25 上午11:46:04 -- {"action":"connection","ip":"192.168.64.158","id":"xBTLc0PmBab4inDrAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 上午11:46:04 -- {"action":"join room","id":"xBTLc0PmBab4inDrAAAF"}
+2023/12/25 下午12:12:23 -- {"action":"disconnect","reason":"transport close","id":"xBTLc0PmBab4inDrAAAF"}
+2023/12/25 下午1:11:28 -- {"action":"connection","ip":"192.168.64.158","id":"ERwkvKVl8v4vQ3hnAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 下午1:11:28 -- {"action":"join room","id":"ERwkvKVl8v4vQ3hnAAAH"}
+2023/12/25 下午1:21:56 -- {"action":"message-to-all","id":"ERwkvKVl8v4vQ3hnAAAH","message":"[\"\"]"}
+2023/12/25 下午1:21:58 -- {"action":"disconnect","reason":"transport close","id":"ERwkvKVl8v4vQ3hnAAAH"}
+2023/12/25 15:26:47 -- {"action":"connection","ip":"192.168.64.158","id":"Zc8nYz46eOUsNLw6AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:27:16 -- {"action":"connection","ip":"192.168.64.158","id":"PqBtK7ZRiRJBaZk6AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:27:16 -- {"action":"join room","id":"PqBtK7ZRiRJBaZk6AAAB"}
+2023/12/25 15:27:23 -- {"action":"disconnect","reason":"transport close","id":"PqBtK7ZRiRJBaZk6AAAB"}
+2023/12/25 15:27:24 -- {"action":"connection","ip":"192.168.64.158","id":"4kT1oYRRLa2-cvbgAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:27:24 -- {"action":"join room","id":"4kT1oYRRLa2-cvbgAAAD"}
+2023/12/25 15:27:26 -- {"action":"disconnect","reason":"transport close","id":"4kT1oYRRLa2-cvbgAAAD"}
+2023/12/25 15:27:26 -- {"action":"connection","ip":"192.168.64.158","id":"5uF8oA7EYSPQcJ63AAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:27:26 -- {"action":"join room","id":"5uF8oA7EYSPQcJ63AAAF"}
+2023/12/25 15:44:01 -- {"action":"connection","ip":"192.168.64.158","id":"GEWqL0R_oLlDy-aFAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:44:01 -- {"action":"join room","id":"GEWqL0R_oLlDy-aFAAAB"}
+2023/12/25 15:44:50 -- {"action":"connection","ip":"192.168.64.158","id":"icMJdB80lA_ZoBlRAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:44:50 -- {"action":"join room","id":"icMJdB80lA_ZoBlRAAAB"}
+2023/12/25 15:45:00 -- {"action":"connection","ip":"192.168.64.158","id":"yPhcasr3A53Bd25tAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:45:00 -- {"action":"join room","id":"yPhcasr3A53Bd25tAAAB"}
+2023/12/25 15:48:07 -- {"action":"message-to-all","id":"yPhcasr3A53Bd25tAAAB","message":"[\"\"]"}
+2023/12/25 15:48:18 -- {"action":"connection","ip":"192.168.64.158","id":"BXlKS7B8HpwhM6rhAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:48:18 -- {"action":"join room","id":"BXlKS7B8HpwhM6rhAAAB"}
+2023/12/25 15:51:07 -- {"action":"connection","ip":"192.168.64.158","id":"h7uk8bGbLZ9p-pHnAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:51:07 -- {"action":"join room","id":"h7uk8bGbLZ9p-pHnAAAB"}
+2023/12/25 15:53:14 -- {"action":"disconnect","reason":"transport close","id":"h7uk8bGbLZ9p-pHnAAAB"}
+2023/12/25 15:53:23 -- {"action":"connection","ip":"192.168.64.158","id":"wH5P7QXI9hJ_NKFHAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:53:23 -- {"action":"join room","id":"wH5P7QXI9hJ_NKFHAAAD"}
+2023/12/25 15:55:05 -- {"action":"connection","ip":"192.168.64.158","id":"TsUb3L7m0gpYPe6jAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:55:05 -- {"action":"join room","id":"TsUb3L7m0gpYPe6jAAAB"}
+2023/12/25 15:55:12 -- {"action":"message-to-all","id":"TsUb3L7m0gpYPe6jAAAB","message":"[\"ddd\"]"}
+2023/12/25 15:55:14 -- {"action":"message-to-others","id":"TsUb3L7m0gpYPe6jAAAB","message":"[\"ddd\"]"}
+2023/12/25 15:57:01 -- {"action":"connection","ip":"192.168.64.158","id":"5qsZtCPogRbFSc9uAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:57:01 -- {"action":"join room","id":"5qsZtCPogRbFSc9uAAAB"}
+2023/12/25 15:57:27 -- {"action":"connection","ip":"192.168.64.158","id":"75n6-jZNzlrOZZUYAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:57:27 -- {"action":"join room","id":"75n6-jZNzlrOZZUYAAAB"}
+2023/12/25 15:58:53 -- {"action":"connection","ip":"192.168.64.158","id":"w9WgZf43M04-qtguAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 15:58:53 -- {"action":"join room","id":"w9WgZf43M04-qtguAAAB"}
+2023/12/25 15:59:02 -- {"action":"message-to-all","id":"w9WgZf43M04-qtguAAAB","message":"[\"ddddd\"]"}
+2023/12/25 16:01:23 -- {"action":"disconnect","reason":"transport close","id":"w9WgZf43M04-qtguAAAB"}
+2023/12/25 16:01:27 -- {"action":"connection","ip":"192.168.64.158","id":"TjgwWINE7QwUreWTAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:01:27 -- {"action":"join room","id":"TjgwWINE7QwUreWTAAAD"}
+2023/12/25 16:01:32 -- {"action":"connection","ip":"192.168.64.158","id":"xg8dVeLCh92QrqJoAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:01:32 -- {"action":"join room","id":"xg8dVeLCh92QrqJoAAAB"}
+2023/12/25 16:01:35 -- {"action":"disconnect","reason":"transport close","id":"xg8dVeLCh92QrqJoAAAB"}
+2023/12/25 16:01:36 -- {"action":"connection","ip":"192.168.64.158","id":"Cm1fUm97EA1C2p83AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:01:36 -- {"action":"join room","id":"Cm1fUm97EA1C2p83AAAD"}
+2023/12/25 16:04:46 -- {"action":"disconnect","reason":"transport close","id":"Cm1fUm97EA1C2p83AAAD"}
+2023/12/25 16:04:47 -- {"action":"connection","ip":"192.168.64.158","id":"X5P9k9Ly785aQgJNAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:04:47 -- {"action":"join room","id":"X5P9k9Ly785aQgJNAAAF"}
+2023/12/25 16:04:59 -- {"action":"connection","ip":"192.168.64.158","id":"IlVccY5M0uHW5wPCAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:04:59 -- {"action":"join room","id":"IlVccY5M0uHW5wPCAAAB"}
+2023/12/25 16:06:29 -- {"action":"message-to-others","id":"IlVccY5M0uHW5wPCAAAB","message":"[\"\"]"}
+2023/12/25 16:06:35 -- {"action":"message-to-others","id":"IlVccY5M0uHW5wPCAAAB","message":"[\"\"]"}
+2023/12/25 16:06:36 -- {"action":"message-to-others","id":"IlVccY5M0uHW5wPCAAAB","message":"[\"\"]"}
+2023/12/25 16:06:36 -- {"action":"message-to-others","id":"IlVccY5M0uHW5wPCAAAB","message":"[\"\"]"}
+2023/12/25 16:08:51 -- {"action":"connection","ip":"192.168.64.158","id":"N1Ud8S-1Wj6taov6AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:08:51 -- {"action":"join room","id":"N1Ud8S-1Wj6taov6AAAB"}
+2023/12/25 16:09:03 -- {"action":"connection","ip":"192.168.64.158","id":"sMSgGXGreQyCjR7OAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:09:03 -- {"action":"join room","id":"sMSgGXGreQyCjR7OAAAB"}
+2023/12/25 16:10:12 -- {"action":"connection","ip":"192.168.64.158","id":"jTv52reE7mjerT8EAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:10:12 -- {"action":"join room","id":"jTv52reE7mjerT8EAAAB"}
+2023/12/25 16:11:16 -- {"action":"disconnect","reason":"transport close","id":"jTv52reE7mjerT8EAAAB"}
+2023/12/25 16:20:26 -- {"action":"connection","ip":"192.168.64.158","id":"3bboQZlG2-12NJWjAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:20:26 -- {"action":"join room","id":"3bboQZlG2-12NJWjAAAB"}
+2023/12/25 16:20:57 -- {"action":"message-to-all","id":"3bboQZlG2-12NJWjAAAB","message":"[\"\"]"}
+2023/12/25 16:22:07 -- {"action":"connection","ip":"192.168.64.158","id":"LVyyWPjyG5bAHolPAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:22:07 -- {"action":"join room","id":"LVyyWPjyG5bAHolPAAAB"}
+2023/12/25 16:27:58 -- {"action":"connection","ip":"192.168.64.158","id":"VOyvVsUF8Jc37AQRAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:27:58 -- {"action":"join room","id":"VOyvVsUF8Jc37AQRAAAB"}
+2023/12/25 16:28:02 -- {"action":"disconnect","reason":"transport close","id":"VOyvVsUF8Jc37AQRAAAB"}
+2023/12/25 16:28:02 -- {"action":"connection","ip":"192.168.64.158","id":"2HDkNsGqE_1j_pMSAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:28:02 -- {"action":"join room","id":"2HDkNsGqE_1j_pMSAAAD"}
+2023/12/25 16:37:18 -- {"action":"disconnect","reason":"transport close","id":"2HDkNsGqE_1j_pMSAAAD"}
+2023/12/25 16:37:19 -- {"action":"connection","ip":"192.168.64.158","id":"TC6_E46zZpnvtV9YAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:37:19 -- {"action":"join room","id":"TC6_E46zZpnvtV9YAAAF"}
+2023/12/25 16:37:27 -- {"action":"message-to-all","id":"TC6_E46zZpnvtV9YAAAF","message":"[\"\"]"}
+2023/12/25 16:37:28 -- {"action":"message-to-all","id":"TC6_E46zZpnvtV9YAAAF","message":"[\"\"]"}
+2023/12/25 16:37:28 -- {"action":"message-to-all","id":"TC6_E46zZpnvtV9YAAAF","message":"[\"\"]"}
+2023/12/25 16:37:30 -- {"action":"message-to-others","id":"TC6_E46zZpnvtV9YAAAF","message":"[\"\"]"}
+2023/12/25 16:37:31 -- {"action":"message-to-all","id":"TC6_E46zZpnvtV9YAAAF","message":"[\"\"]"}
+2023/12/25 16:37:31 -- {"action":"disconnect","reason":"transport close","id":"TC6_E46zZpnvtV9YAAAF"}
+2023/12/25 16:37:32 -- {"action":"connection","ip":"192.168.64.158","id":"Hx1grszR15GOWbHmAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:37:32 -- {"action":"join room","id":"Hx1grszR15GOWbHmAAAH"}
+2023/12/25 16:37:52 -- {"action":"disconnect","reason":"transport close","id":"Hx1grszR15GOWbHmAAAH"}
+2023/12/25 16:37:52 -- {"action":"connection","ip":"192.168.64.158","id":"_VtOmtW0g04LV0wEAAAJ","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:37:52 -- {"action":"join room","id":"_VtOmtW0g04LV0wEAAAJ"}
+2023/12/25 16:38:18 -- {"action":"disconnect","reason":"transport close","id":"_VtOmtW0g04LV0wEAAAJ"}
+2023/12/25 16:38:52 -- {"action":"connection","ip":"192.168.64.158","id":"vzvbt6zk0U7pGVS7AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:38:52 -- {"action":"join room","id":"vzvbt6zk0U7pGVS7AAAB"}
+2023/12/25 16:39:04 -- {"action":"disconnect","reason":"transport close","id":"vzvbt6zk0U7pGVS7AAAB"}
+2023/12/25 16:39:04 -- {"action":"connection","ip":"192.168.64.158","id":"KYaoH9FhFiRAhB2OAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:39:04 -- {"action":"join room","id":"KYaoH9FhFiRAhB2OAAAD"}
+2023/12/25 16:39:29 -- {"action":"disconnect","reason":"transport close","id":"KYaoH9FhFiRAhB2OAAAD"}
+2023/12/25 16:39:29 -- {"action":"connection","ip":"192.168.64.158","id":"lWG2iMHC8oasJj9GAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:39:29 -- {"action":"join room","id":"lWG2iMHC8oasJj9GAAAF"}
+2023/12/25 16:39:36 -- {"action":"message-to-all","id":"lWG2iMHC8oasJj9GAAAF","message":"[\"dd\"]"}
+2023/12/25 16:41:23 -- {"action":"disconnect","reason":"transport close","id":"lWG2iMHC8oasJj9GAAAF"}
+2023/12/25 16:42:50 -- {"action":"connection","ip":"192.168.64.158","id":"eRgZODwRts2UOvl5AAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:42:50 -- {"action":"join room","id":"eRgZODwRts2UOvl5AAAH"}
+2023/12/25 16:44:09 -- {"action":"disconnect","reason":"transport close","id":"eRgZODwRts2UOvl5AAAH"}
+2023/12/25 16:44:10 -- {"action":"connection","ip":"192.168.64.158","id":"Fo1dV_LTOVwczcC7AAAJ","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:44:10 -- {"action":"join room","id":"Fo1dV_LTOVwczcC7AAAJ"}
+2023/12/25 16:46:23 -- {"action":"connection","ip":"192.168.64.158","id":"GpwhkCDHkp7FZTEOAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:46:23 -- {"action":"join room","id":"GpwhkCDHkp7FZTEOAAAB"}
+2023/12/25 16:46:29 -- {"action":"disconnect","reason":"transport close","id":"GpwhkCDHkp7FZTEOAAAB"}
+2023/12/25 16:46:31 -- {"action":"connection","ip":"192.168.64.158","id":"K1lBhNjmWN3uer-DAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:46:31 -- {"action":"join room","id":"K1lBhNjmWN3uer-DAAAD"}
+2023/12/25 16:48:18 -- {"action":"disconnect","reason":"transport close","id":"K1lBhNjmWN3uer-DAAAD"}
+2023/12/25 16:48:18 -- {"action":"connection","ip":"192.168.64.158","id":"LNi-1-pAV_C0QoSxAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:48:18 -- {"action":"join room","id":"LNi-1-pAV_C0QoSxAAAF"}
+2023/12/25 16:48:56 -- {"action":"disconnect","reason":"transport close","id":"LNi-1-pAV_C0QoSxAAAF"}
+2023/12/25 16:48:56 -- {"action":"connection","ip":"::1","id":"2-cq4HngL55EGzTQAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:48:56 -- {"action":"join room","id":"2-cq4HngL55EGzTQAAAH"}
+2023/12/25 16:49:28 -- {"action":"disconnect","reason":"transport close","id":"2-cq4HngL55EGzTQAAAH"}
+2023/12/25 16:49:28 -- {"action":"connection","ip":"::1","id":"J6aMl5c7oC_sulEMAAAJ","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:49:28 -- {"action":"join room","id":"J6aMl5c7oC_sulEMAAAJ"}
+2023/12/25 16:49:29 -- {"action":"disconnect","reason":"transport close","id":"J6aMl5c7oC_sulEMAAAJ"}
+2023/12/25 16:49:29 -- {"action":"connection","ip":"::1","id":"ukLL1TN7EOE0AVJiAAAL","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:49:29 -- {"action":"join room","id":"ukLL1TN7EOE0AVJiAAAL"}
+2023/12/25 16:50:10 -- {"action":"connection","ip":"::1","id":"B-eq_36lbTHEktNUAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 16:50:10 -- {"action":"join room","id":"B-eq_36lbTHEktNUAAAB"}
+2023/12/25 16:50:41 -- {"action":"message-to-all","id":"B-eq_36lbTHEktNUAAAB","message":"[\"]]\"]"}
+2023/12/25 17:05:55 -- {"action":"connection","ip":"::1","id":"CZLvCw6igmETtUk-AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:05:55 -- {"action":"join room","id":"CZLvCw6igmETtUk-AAAB"}
+2023/12/25 17:06:53 -- {"action":"connection","ip":"::1","id":"DpA1U2uZXrJVIztFAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:06:53 -- {"action":"join room","id":"DpA1U2uZXrJVIztFAAAB"}
+2023/12/25 17:07:08 -- {"action":"connection","ip":"::1","id":"wP_2Ok062V7onCYWAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:07:08 -- {"action":"join room","id":"wP_2Ok062V7onCYWAAAB"}
+2023/12/25 17:09:26 -- {"action":"disconnect","reason":"transport close","id":"wP_2Ok062V7onCYWAAAB"}
+2023/12/25 17:09:27 -- {"action":"connection","ip":"::1","id":"LRv7WLJL7FKl1xM_AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:09:27 -- {"action":"join room","id":"LRv7WLJL7FKl1xM_AAAD"}
+2023/12/25 17:09:53 -- {"action":"disconnect","reason":"transport close","id":"LRv7WLJL7FKl1xM_AAAD"}
+2023/12/25 17:09:53 -- {"action":"connection","ip":"::1","id":"4BZVgHkfU8AtiHQpAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:09:53 -- {"action":"join room","id":"4BZVgHkfU8AtiHQpAAAF"}
+2023/12/25 17:09:58 -- {"action":"disconnect","reason":"transport close","id":"4BZVgHkfU8AtiHQpAAAF"}
+2023/12/25 17:09:58 -- {"action":"connection","ip":"::1","id":"imX5Cf5qHXgzg7rjAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:09:58 -- {"action":"join room","id":"imX5Cf5qHXgzg7rjAAAH"}
+2023/12/25 17:10:13 -- {"action":"connection","ip":"::1","id":"K9qbDk9K8B2VI_kgAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:10:13 -- {"action":"join room","id":"K9qbDk9K8B2VI_kgAAAB"}
+2023/12/25 17:10:49 -- {"action":"connection","ip":"::1","id":"4N5NiwBuOArvUPvtAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:10:49 -- {"action":"join room","id":"4N5NiwBuOArvUPvtAAAB"}
+2023/12/25 17:15:43 -- {"action":"connection","ip":"::1","id":"3pTGjKOTSR030lMOAAAE","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"}
+2023/12/25 17:15:43 -- {"action":"join room","id":"3pTGjKOTSR030lMOAAAE"}
+2023/12/25 17:15:46 -- {"action":"disconnect","reason":"transport close","id":"3pTGjKOTSR030lMOAAAE"}
+2023/12/25 17:15:49 -- {"action":"connection","ip":"::1","id":"u50fZp_6JRIfSyyaAAAG","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"}
+2023/12/25 17:15:49 -- {"action":"join room","id":"u50fZp_6JRIfSyyaAAAG"}
+2023/12/25 17:16:59 -- {"action":"message-to-all","id":"u50fZp_6JRIfSyyaAAAG","message":"[\"我也是醉了啊\"]"}
+2023/12/25 17:17:08 -- {"action":"disconnect","reason":"transport close","id":"u50fZp_6JRIfSyyaAAAG"}
+2023/12/25 17:17:13 -- {"action":"connection","ip":"::1","id":"jd0YuE_Y-xFgzZ5eAAAN","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"}
+2023/12/25 17:17:13 -- {"action":"join room","id":"jd0YuE_Y-xFgzZ5eAAAN"}
+2023/12/25 17:17:24 -- {"action":"disconnect","reason":"transport close","id":"4N5NiwBuOArvUPvtAAAB"}
+2023/12/25 17:17:28 -- {"action":"connection","ip":"::1","id":"-D3hXLjfG8PU7Tt0AAAP","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/25 17:17:28 -- {"action":"join room","id":"-D3hXLjfG8PU7Tt0AAAP"}
+2023/12/25 17:18:12 -- {"action":"disconnect","reason":"transport close","id":"jd0YuE_Y-xFgzZ5eAAAN"}
+2023/12/25 17:57:14 -- {"action":"disconnect","reason":"transport close","id":"-D3hXLjfG8PU7Tt0AAAP"}
+2023/12/26 13:50:07 -- {"action":"connection","ip":"::1","id":"4rVhawgBsuPq6nFeAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/26 13:50:07 -- {"action":"join room","id":"4rVhawgBsuPq6nFeAAAB"}
+2023/12/26 13:50:30 -- {"action":"message-to-all","id":"4rVhawgBsuPq6nFeAAAB","message":"[\"111111goggo\"]"}
+2023/12/26 14:28:31 -- {"action":"connection","ip":"::1","id":"ChEH9UMCT6fITqEhAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023/12/26 14:28:31 -- {"action":"join room","id":"ChEH9UMCT6fITqEhAAAD"}
+2023/12/26 14:28:33 -- {"action":"disconnect","reason":"transport close","id":"4rVhawgBsuPq6nFeAAAB"}
+2023/12/26 14:28:38 -- {"action":"message-to-all","id":"ChEH9UMCT6fITqEhAAAD","message":"[\"\"]"}
+2023-12-26T06:39:02.000Z -- {"action":"connection","ip":"::1","id":"wj_RkeBZyqpADp4AAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:39:02.002Z -- {"action":"join room","id":"wj_RkeBZyqpADp4AAAAB"}
+2023-12-26T06:40:06.903Z -- {"action":"connection","ip":"::1","id":"3u6AFLUgCRIyH86SAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:40:06.905Z -- {"action":"join room","id":"3u6AFLUgCRIyH86SAAAB"}
+2023-12-26T06:40:11.424Z -- {"action":"disconnect","reason":"transport close","id":"3u6AFLUgCRIyH86SAAAB"}
+2023-12-26T06:40:12.277Z -- {"action":"connection","ip":"::1","id":"Lj0EN8iGS6eCNiizAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:40:12.277Z -- {"action":"join room","id":"Lj0EN8iGS6eCNiizAAAD"}
+2023-12-26T06:40:13.466Z -- {"action":"message-to-all","id":"Lj0EN8iGS6eCNiizAAAD","message":"[\"\"]"}
+2023-12-26T06:40:13.825Z -- {"action":"message-to-all","id":"Lj0EN8iGS6eCNiizAAAD","message":"[\"\"]"}
+2023-12-26T06:40:13.994Z -- {"action":"message-to-all","id":"Lj0EN8iGS6eCNiizAAAD","message":"[\"\"]"}
+2023-12-26T06:45:15.654Z -- {"action":"connection","ip":"::1","id":"X5InoDUf7YaZ-i6sAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:45:15.655Z -- {"action":"join room","id":"X5InoDUf7YaZ-i6sAAAB"}
+2023-12-26T06:45:19.841Z -- {"action":"disconnect","reason":"transport close","id":"X5InoDUf7YaZ-i6sAAAB"}
+2023-12-26T06:45:20.466Z -- {"action":"connection","ip":"::1","id":"zkYU_Lzu0p-3A8uCAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:45:20.467Z -- {"action":"join room","id":"zkYU_Lzu0p-3A8uCAAAD"}
+2023-12-26T06:45:21.204Z -- {"action":"message-to-all","id":"zkYU_Lzu0p-3A8uCAAAD","message":"[\"\"]"}
+2023-12-26T06:45:21.533Z -- {"action":"message-to-all","id":"zkYU_Lzu0p-3A8uCAAAD","message":"[\"\"]"}
+2023-12-26T06:45:21.703Z -- {"action":"message-to-all","id":"zkYU_Lzu0p-3A8uCAAAD","message":"[\"\"]"}
+2023-12-26T06:45:21.854Z -- {"action":"message-to-all","id":"zkYU_Lzu0p-3A8uCAAAD","message":"[\"\"]"}
+2023-12-26T06:45:22.025Z -- {"action":"message-to-all","id":"zkYU_Lzu0p-3A8uCAAAD","message":"[\"\"]"}
+2023-12-26T06:45:22.204Z -- {"action":"message-to-all","id":"zkYU_Lzu0p-3A8uCAAAD","message":"[\"\"]"}
+2023-12-26T06:52:01.644Z -- {"action":"connection","ip":"::1","id":"YE0-Hh89MokOCEYIAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:52:01.646Z -- {"action":"join room","id":"YE0-Hh89MokOCEYIAAAB"}
+2023-12-26T06:52:31.639Z -- {"action":"connection","ip":"::1","id":"EMbw82UzngPvf9yjAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:52:31.641Z -- {"action":"join room","id":"EMbw82UzngPvf9yjAAAB"}
+2023-12-26T06:52:38.002Z -- {"action":"disconnect","reason":"transport close","id":"EMbw82UzngPvf9yjAAAB"}
+2023-12-26T06:52:40.243Z -- {"action":"connection","ip":"::1","id":"nE2S0mYyz5Fod1LOAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T06:52:40.244Z -- {"action":"join room","id":"nE2S0mYyz5Fod1LOAAAD"}
+2023-12-26T06:52:41.874Z -- {"action":"message-to-all","id":"nE2S0mYyz5Fod1LOAAAD","message":"[\"ddd\"]"}
+2023-12-26T06:52:42.564Z -- {"action":"message-to-all","id":"nE2S0mYyz5Fod1LOAAAD","message":"[\"ddd\"]"}
+2023-12-26T06:52:42.734Z -- {"action":"message-to-all","id":"nE2S0mYyz5Fod1LOAAAD","message":"[\"ddd\"]"}
+2023-12-26T06:52:42.904Z -- {"action":"message-to-all","id":"nE2S0mYyz5Fod1LOAAAD","message":"[\"ddd\"]"}
+2023-12-26T06:52:43.072Z -- {"action":"message-to-all","id":"nE2S0mYyz5Fod1LOAAAD","message":"[\"ddd\"]"}
+2023-12-26T06:52:43.241Z -- {"action":"message-to-all","id":"nE2S0mYyz5Fod1LOAAAD","message":"[\"ddd\"]"}
+2023-12-26T07:01:10.912Z -- {"action":"connection","ip":"::1","id":"TuNOUmvoM5LBNP1BAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:01:10.913Z -- {"action":"join room","id":"TuNOUmvoM5LBNP1BAAAB"}
+2023-12-26T07:02:11.404Z -- {"action":"connection","ip":"::1","id":"iHPujjljqGJDBk0xAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:02:11.405Z -- {"action":"join room","id":"iHPujjljqGJDBk0xAAAB"}
+2023-12-26T07:02:25.903Z -- {"action":"connection","ip":"::1","id":"1_GWQKqdWtUENOGKAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:02:25.904Z -- {"action":"join room","id":"1_GWQKqdWtUENOGKAAAB"}
+2023-12-26T07:03:00.138Z -- {"action":"connection","ip":"::1","id":"osjBD6_H-BydRLf-AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:03:00.139Z -- {"action":"join room","id":"osjBD6_H-BydRLf-AAAB"}
+2023-12-26T07:03:12.154Z -- {"action":"connection","ip":"::1","id":"wK1NmQF37Uc4C7k1AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:03:12.155Z -- {"action":"join room","id":"wK1NmQF37Uc4C7k1AAAB"}
+2023-12-26T07:03:54.900Z -- {"action":"connection","ip":"::1","id":"CMpSOrzG-YLqEVgyAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:03:54.901Z -- {"action":"join room","id":"CMpSOrzG-YLqEVgyAAAB"}
+2023-12-26T07:05:55.895Z -- {"action":"message-to-others","id":"CMpSOrzG-YLqEVgyAAAB","message":"[\"哈哈\"]"}
+2023-12-26T07:05:58.759Z -- {"action":"disconnect","reason":"transport close","id":"CMpSOrzG-YLqEVgyAAAB"}
+2023-12-26T07:05:59.174Z -- {"action":"connection","ip":"::1","id":"HFuZyPd_nXugptMVAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:05:59.175Z -- {"action":"join room","id":"HFuZyPd_nXugptMVAAAD"}
+2023-12-26T07:06:01.973Z -- {"action":"message-to-others","id":"HFuZyPd_nXugptMVAAAD","message":"[\"迭代\"]"}
+2023-12-26T07:06:49.643Z -- {"action":"connection","ip":"::1","id":"L-JMybTUoIrfxDo_AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:06:49.645Z -- {"action":"join room","id":"L-JMybTUoIrfxDo_AAAB"}
+2023-12-26T07:08:00.643Z -- {"action":"connection","ip":"::1","id":"WZKEmI6a9Q_N_-mMAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:08:00.645Z -- {"action":"join room","id":"WZKEmI6a9Q_N_-mMAAAB"}
+2023-12-26T07:08:54.951Z -- {"action":"connection","ip":"::1","id":"2kbjC3pwxAsa8pS3AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:08:54.953Z -- {"action":"join room","id":"2kbjC3pwxAsa8pS3AAAB"}
+2023-12-26T07:09:22.638Z -- {"action":"connection","ip":"::1","id":"UM6lYmO8a5u3IfQEAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:09:22.640Z -- {"action":"join room","id":"UM6lYmO8a5u3IfQEAAAB"}
+2023-12-26T07:12:56.638Z -- {"action":"connection","ip":"::1","id":"T7rWP4iGrqwlzvExAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:12:56.639Z -- {"action":"join room","id":"T7rWP4iGrqwlzvExAAAB"}
+2023-12-26T07:16:07.639Z -- {"action":"connection","ip":"::1","id":"yAa7hhDLWbiVg-5HAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:16:07.641Z -- {"action":"join room","id":"yAa7hhDLWbiVg-5HAAAB"}
+2023-12-26T07:18:08.639Z -- {"action":"connection","ip":"::1","id":"U-_M3TqkCerzYVwvAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:18:08.641Z -- {"action":"join room","id":"U-_M3TqkCerzYVwvAAAB"}
+2023-12-26T07:19:21.627Z -- {"action":"connection","ip":"::1","id":"v4ew8fD-rtrqFSTnAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:19:21.629Z -- {"action":"join room","id":"v4ew8fD-rtrqFSTnAAAB"}
+2023-12-26T07:19:53.650Z -- {"action":"connection","ip":"::1","id":"5GTpzifi8zVzYY_KAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:19:53.651Z -- {"action":"join room","id":"5GTpzifi8zVzYY_KAAAB"}
+2023-12-26T07:21:23.647Z -- {"action":"connection","ip":"::1","id":"OS-JCytYNxadf0eHAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:21:23.649Z -- {"action":"join room","id":"OS-JCytYNxadf0eHAAAB"}
+2023-12-26T07:22:11.655Z -- {"action":"connection","ip":"::1","id":"Lz9isC-NneihmjTfAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:22:11.657Z -- {"action":"join room","id":"Lz9isC-NneihmjTfAAAB"}
+2023-12-26T07:24:15.648Z -- {"action":"connection","ip":"::1","id":"95FLj3gveOcvvN8xAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:24:15.650Z -- {"action":"join room","id":"95FLj3gveOcvvN8xAAAB"}
+2023-12-26T07:24:36.911Z -- {"action":"connection","ip":"::1","id":"CNQjl3BEgO4-3DlpAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:24:36.912Z -- {"action":"join room","id":"CNQjl3BEgO4-3DlpAAAB"}
+2023-12-26T07:25:21.645Z -- {"action":"connection","ip":"::1","id":"rI7rCjcRX3HrQSEdAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:25:21.646Z -- {"action":"join room","id":"rI7rCjcRX3HrQSEdAAAB"}
+2023-12-26T07:27:31.910Z -- {"action":"connection","ip":"::1","id":"Kd2snvIpV1OTsJtbAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:27:31.911Z -- {"action":"join room","id":"Kd2snvIpV1OTsJtbAAAB"}
+2023-12-26T07:28:18.649Z -- {"action":"connection","ip":"::1","id":"O8MMRrh48wBRQhfsAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:28:18.651Z -- {"action":"join room","id":"O8MMRrh48wBRQhfsAAAB"}
+2023-12-26T07:28:40.639Z -- {"action":"connection","ip":"::1","id":"J5lsRGL2EnK1VPR9AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:28:40.641Z -- {"action":"join room","id":"J5lsRGL2EnK1VPR9AAAB"}
+2023-12-26T07:30:08.639Z -- {"action":"connection","ip":"::1","id":"wr3TOqhcYmoaHUfCAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:30:08.640Z -- {"action":"join room","id":"wr3TOqhcYmoaHUfCAAAB"}
+2023-12-26T07:30:50.645Z -- {"action":"connection","ip":"::1","id":"9ewh5ksrVtfchMNtAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:30:50.647Z -- {"action":"join room","id":"9ewh5ksrVtfchMNtAAAB"}
+2023-12-26T07:31:28.641Z -- {"action":"connection","ip":"::1","id":"tR-v7kH5qXf5-lGvAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:31:28.642Z -- {"action":"join room","id":"tR-v7kH5qXf5-lGvAAAB"}
+2023-12-26T07:41:55.219Z -- {"action":"disconnect","reason":"transport close","id":"tR-v7kH5qXf5-lGvAAAB"}
+2023-12-26T07:41:56.772Z -- {"action":"connection","ip":"::1","id":"y-T0gEHbvKuQuU3nAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T07:41:56.772Z -- {"action":"join room","id":"y-T0gEHbvKuQuU3nAAAD"}
+2023-12-26T08:00:16.678Z -- {"action":"connection","ip":"::1","id":"J-8DyGPADXd8T1ewAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:00:16.680Z -- {"action":"join room","id":"J-8DyGPADXd8T1ewAAAB"}
+2023-12-26T08:00:18.275Z -- {"action":"message-to-all","id":"J-8DyGPADXd8T1ewAAAB","message":"[\"\"]"}
+2023-12-26T08:03:31.571Z -- {"action":"connection","ip":"::1","id":"AwDIiicr7nwsrD_XAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:03:31.572Z -- {"action":"join room","id":"AwDIiicr7nwsrD_XAAAB"}
+2023-12-26T08:03:33.783Z -- {"action":"message-to-all","id":"AwDIiicr7nwsrD_XAAAB","message":"[\"\"]"}
+2023-12-26T08:03:33.947Z -- {"action":"message-to-all","id":"AwDIiicr7nwsrD_XAAAB","message":"[\"\"]"}
+2023-12-26T08:03:34.105Z -- {"action":"message-to-all","id":"AwDIiicr7nwsrD_XAAAB","message":"[\"\"]"}
+2023-12-26T08:09:35.718Z -- {"action":"disconnect","reason":"client namespace disconnect","id":"AwDIiicr7nwsrD_XAAAB"}
+2023-12-26T08:09:37.066Z -- {"action":"connection","ip":"::1","id":"DbNjH9ZqIZsiqYDCAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:09:37.066Z -- {"action":"join room","id":"DbNjH9ZqIZsiqYDCAAAD"}
+2023-12-26T08:09:37.072Z -- {"action":"message-to-others","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:37.072Z -- {"action":"message-to-all","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:37.604Z -- {"action":"message-to-others","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:37.934Z -- {"action":"message-to-all","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:38.209Z -- {"action":"message-to-others","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:38.562Z -- {"action":"message-to-others","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:38.725Z -- {"action":"message-to-others","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:39.074Z -- {"action":"message-to-all","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:39.247Z -- {"action":"message-to-all","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:39.410Z -- {"action":"message-to-all","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:09:39.564Z -- {"action":"message-to-all","id":"DbNjH9ZqIZsiqYDCAAAD","message":"[\"\"]"}
+2023-12-26T08:14:36.642Z -- {"action":"connection","ip":"::1","id":"X48we5lYKJKqxMw4AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:14:36.644Z -- {"action":"join room","id":"X48we5lYKJKqxMw4AAAB"}
+2023-12-26T08:14:43.049Z -- {"action":"disconnect","reason":"transport close","id":"X48we5lYKJKqxMw4AAAB"}
+2023-12-26T08:17:35.928Z -- {"action":"connection","ip":"::1","id":"maINXyxYS6BNkCsmAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:17:35.930Z -- {"action":"join room","id":"maINXyxYS6BNkCsmAAAB"}
+2023-12-26T08:18:56.524Z -- {"action":"message-to-all","id":"maINXyxYS6BNkCsmAAAB","message":"[\"\"]"}
+2023-12-26T08:30:08.649Z -- {"action":"connection","ip":"::1","id":"iUuJB1ww_EuvsoRyAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:30:08.650Z -- {"action":"join room","id":"iUuJB1ww_EuvsoRyAAAB"}
+2023-12-26T08:30:12.633Z -- {"action":"connection","ip":"::1","id":"I3oJbdaoAZJFnKyhAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:30:12.634Z -- {"action":"join room","id":"I3oJbdaoAZJFnKyhAAAD"}
+2023-12-26T08:30:15.118Z -- {"action":"message-to-all","id":"I3oJbdaoAZJFnKyhAAAD","message":"[\"\"]"}
+2023-12-26T08:32:38.264Z -- {"action":"connection","ip":"::1","id":"Iu7Xjfvh88QUAEb0AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:32:38.265Z -- {"action":"join room","id":"Iu7Xjfvh88QUAEb0AAAB"}
+2023-12-26T08:32:38.634Z -- {"action":"connection","ip":"::1","id":"JEWID1cyU1yA4kX7AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:32:38.635Z -- {"action":"join room","id":"JEWID1cyU1yA4kX7AAAD"}
+2023-12-26T08:33:40.736Z -- {"action":"connection","ip":"::1","id":"5KqJ4VpCNXKwD_SBAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:33:40.737Z -- {"action":"join room","id":"5KqJ4VpCNXKwD_SBAAAC"}
+2023-12-26T08:33:40.748Z -- {"action":"connection","ip":"::1","id":"10asNWBqTlZkRMsSAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:33:40.749Z -- {"action":"join room","id":"10asNWBqTlZkRMsSAAAD"}
+2023-12-26T08:34:03.836Z -- {"action":"connection","ip":"::1","id":"VjK20cvaTGVoYa8XAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:34:03.838Z -- {"action":"join room","id":"VjK20cvaTGVoYa8XAAAB"}
+2023-12-26T08:34:04.618Z -- {"action":"connection","ip":"127.0.0.1","id":"cx3PnI-ZNOQOZ_ljAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:34:04.618Z -- {"action":"join room","id":"cx3PnI-ZNOQOZ_ljAAAD"}
+2023-12-26T08:40:46.900Z -- {"action":"connection","ip":"::1","id":"v0uh4KWy3VyAx_XGAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:40:46.901Z -- {"action":"join room","id":"v0uh4KWy3VyAx_XGAAAB"}
+2023-12-26T08:40:46.915Z -- {"action":"connection","ip":"::1","id":"edpJ8lXZVcB-N_DDAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:40:46.915Z -- {"action":"join room","id":"edpJ8lXZVcB-N_DDAAAD"}
+2023-12-26T08:40:57.169Z -- {"action":"disconnect","reason":"transport close","id":"v0uh4KWy3VyAx_XGAAAB"}
+2023-12-26T08:40:57.182Z -- {"action":"connection","ip":"::1","id":"cjCfBArErdSnQXKIAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:40:57.183Z -- {"action":"join room","id":"cjCfBArErdSnQXKIAAAF"}
+2023-12-26T08:42:50.038Z -- {"action":"connection","ip":"::1","id":"JZgwzXm5HK7C1MslAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:42:50.040Z -- {"action":"join room","id":"JZgwzXm5HK7C1MslAAAB"}
+2023-12-26T08:42:50.150Z -- {"action":"connection","ip":"::1","id":"_30aPgL19vr-HRfdAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:42:50.153Z -- {"action":"join room","id":"_30aPgL19vr-HRfdAAAD"}
+2023-12-26T08:42:53.964Z -- {"action":"disconnect","reason":"transport close","id":"JZgwzXm5HK7C1MslAAAB"}
+2023-12-26T08:42:53.977Z -- {"action":"connection","ip":"::1","id":"wgGBWOAykKWCQ4o1AAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:42:53.978Z -- {"action":"join room","id":"wgGBWOAykKWCQ4o1AAAF"}
+2023-12-26T08:42:55.154Z -- {"action":"message-to-all","id":"wgGBWOAykKWCQ4o1AAAF","message":"[\"\"]"}
+2023-12-26T08:42:55.898Z -- {"action":"message-to-others","id":"wgGBWOAykKWCQ4o1AAAF","message":"[\"\"]"}
+2023-12-26T08:43:01.058Z -- {"action":"message-to-all","id":"wgGBWOAykKWCQ4o1AAAF","message":"[\"ddddddd\"]"}
+2023-12-26T08:45:51.639Z -- {"action":"connection","ip":"::1","id":"sBpmMgDhAsARyH16AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:45:51.640Z -- {"action":"join room","id":"sBpmMgDhAsARyH16AAAB"}
+2023-12-26T08:45:52.649Z -- {"action":"connection","ip":"::1","id":"2ydtBS0LnDqfazoQAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:45:52.650Z -- {"action":"join room","id":"2ydtBS0LnDqfazoQAAAD"}
+2023-12-26T08:48:06.636Z -- {"action":"connection","ip":"::1","id":"NRV5OqkllF5lG4Z2AAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:48:06.638Z -- {"action":"join room","id":"NRV5OqkllF5lG4Z2AAAC"}
+2023-12-26T08:48:06.649Z -- {"action":"connection","ip":"::1","id":"pljDL3jt5oSFSz-DAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:48:06.650Z -- {"action":"join room","id":"pljDL3jt5oSFSz-DAAAD"}
+2023-12-26T08:49:19.922Z -- {"action":"connection","ip":"::1","id":"Lt4XgdiTcEJosLHTAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:49:19.923Z -- {"action":"join room","id":"Lt4XgdiTcEJosLHTAAAC"}
+2023-12-26T08:49:19.934Z -- {"action":"connection","ip":"::1","id":"iCKqQWwEFGEhnJ92AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:49:19.934Z -- {"action":"join room","id":"iCKqQWwEFGEhnJ92AAAD"}
+2023-12-26T08:50:06.657Z -- {"action":"connection","ip":"::1","id":"gxO3-pFVym3fzDpfAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:50:06.658Z -- {"action":"join room","id":"gxO3-pFVym3fzDpfAAAC"}
+2023-12-26T08:50:06.667Z -- {"action":"connection","ip":"::1","id":"pl64fnUIHXAkCmt8AAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:50:06.667Z -- {"action":"join room","id":"pl64fnUIHXAkCmt8AAAD"}
+2023-12-26T08:50:21.674Z -- {"action":"connection","ip":"::1","id":"nMuxVn-frmynFO_MAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:50:21.676Z -- {"action":"join room","id":"nMuxVn-frmynFO_MAAAC"}
+2023-12-26T08:50:21.687Z -- {"action":"connection","ip":"::1","id":"FBLCRiG477FnKrlEAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:50:21.688Z -- {"action":"join room","id":"FBLCRiG477FnKrlEAAAD"}
+2023-12-26T08:50:57.664Z -- {"action":"connection","ip":"::1","id":"sfi3Ngo77WHFW_QKAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:50:57.665Z -- {"action":"join room","id":"sfi3Ngo77WHFW_QKAAAC"}
+2023-12-26T08:50:57.675Z -- {"action":"connection","ip":"::1","id":"5sTPOsz68reqtv1dAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:50:57.676Z -- {"action":"join room","id":"5sTPOsz68reqtv1dAAAD"}
+2023-12-26T08:51:14.634Z -- {"action":"connection","ip":"::1","id":"1FU-WJZBLde7y8HNAAAC","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:51:14.636Z -- {"action":"join room","id":"1FU-WJZBLde7y8HNAAAC"}
+2023-12-26T08:51:14.647Z -- {"action":"connection","ip":"::1","id":"1zlWSHPEvweYfldqAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:51:14.648Z -- {"action":"join room","id":"1zlWSHPEvweYfldqAAAD"}
+2023-12-26T08:54:36.661Z -- {"action":"connection","ip":"::1","id":"3gr0amaV3y3PhUeJAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:54:36.663Z -- {"action":"join room","id":"3gr0amaV3y3PhUeJAAAB"}
+2023-12-26T08:54:37.664Z -- {"action":"connection","ip":"::1","id":"kRHtFgjL-NSnuZdnAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T08:54:37.665Z -- {"action":"join room","id":"kRHtFgjL-NSnuZdnAAAD"}
+2023-12-26T08:56:07.678Z -- {"action":"message-to-all","id":"kRHtFgjL-NSnuZdnAAAD","message":"[\"\"]"}
+2023-12-26T08:56:10.183Z -- {"action":"disconnect","reason":"transport close","id":"kRHtFgjL-NSnuZdnAAAD"}
+2023-12-26T09:00:33.644Z -- {"action":"connection","ip":"::1","id":"-cR9c67UmatkVq83AAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-26T09:00:33.646Z -- {"action":"join room","id":"-cR9c67UmatkVq83AAAB"}
+2023-12-26T10:09:35.523Z -- {"action":"disconnect","reason":"transport close","id":"-cR9c67UmatkVq83AAAB"}
+2023-12-27T00:49:28.433Z -- {"action":"connection","ip":"::1","id":"PRsd-_O8KM5Ia-VhAAAD","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-27T00:49:28.434Z -- {"action":"join room","id":"PRsd-_O8KM5Ia-VhAAAD"}
+2023-12-27T03:50:24.733Z -- {"action":"disconnect","reason":"transport close","id":"PRsd-_O8KM5Ia-VhAAAD"}
+2023-12-27T03:51:19.236Z -- {"action":"connection","ip":"::1","id":"gHkhZ-NSAXOFSb4TAAAF","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-27T03:51:19.237Z -- {"action":"join room","id":"gHkhZ-NSAXOFSb4TAAAF"}
+2023-12-27T04:30:50.958Z -- {"action":"disconnect","reason":"transport close","id":"gHkhZ-NSAXOFSb4TAAAF"}
+2023-12-27T05:06:43.285Z -- {"action":"connection","ip":"::1","id":"mXSafJAD-EVH3PtxAAAH","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-27T05:06:43.286Z -- {"action":"join room","id":"mXSafJAD-EVH3PtxAAAH"}
+2023-12-28T09:36:52.830Z -- {"action":"connection","ip":"::1","id":"CLnZGTpd-jEM0xUjAAAB","agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
+2023-12-28T09:36:52.832Z -- {"action":"join room","id":"CLnZGTpd-jEM0xUjAAAB"}
+2023-12-28T09:36:59.319Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"\"]"}
+2023-12-28T09:37:01.053Z -- {"action":"message-to-others","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:01.245Z -- {"action":"message-to-others","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:01.421Z -- {"action":"message-to-others","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:01.588Z -- {"action":"message-to-others","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:01.749Z -- {"action":"message-to-others","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:01.932Z -- {"action":"message-to-others","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:02.332Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:02.488Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:02.654Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:02.815Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:02.988Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:03.145Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:03.313Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:03.471Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:03.637Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:03.803Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:03.968Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:04.147Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:07.034Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:07.180Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:07.335Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:07.506Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:07.662Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T09:37:07.828Z -- {"action":"message-to-all","id":"CLnZGTpd-jEM0xUjAAAB","message":"[\"dasdfa\"]"}
+2023-12-28T10:07:54.742Z -- {"action":"disconnect","reason":"transport close","id":"CLnZGTpd-jEM0xUjAAAB"}

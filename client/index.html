@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <input id="input" type="textera">
+  <button id="send-to-all">发送给所有人</button>
+  <button id="send-to-other">发送给其他人</button>
+  <button id="close">断开连接</button>
+  <button id="re-connect">重新连接</button>
+  <script>
+    let appendChild = function (msg) {
+      let child = document.createElement("div")
+      child.innerText = msg
+      document.body.appendChild(child)
+    }
+  </script>
+  <script type="module">
+    import { io } from "https://cdn.socket.io/4.7.2/socket.io.esm.min.js";
+
+    const socket = io("http://localhost:3000/test", {
+      auth: {
+        token: "123"
+      },
+      query: {
+        "my-key": "my-value"
+      },
+      extraHeaders: {
+        "my-custom-header": "abcd",
+      },
+      withCredentials: true
+    });
+
+    socket.on("res-test", (message) => {
+      appendChild(`${socket.id}-${message}`)
+    })
+
+    function getInputValue() {
+      return document.getElementById("input").value
+    }
+
+    document.getElementById("close").onclick = function () {
+      socket.close()
+    }
+
+    document.getElementById("re-connect").onclick = function () {
+      socket.connect()
+    }
+
+    document.getElementById("send-to-all").onclick = function () {
+      socket.emit("test", getInputValue())
+    }
+
+    document.getElementById("send-to-other").onclick = function () {
+      socket.emit("to-others-test", getInputValue())
+    }
+
+  </script>
+</body>
+
+</html>
